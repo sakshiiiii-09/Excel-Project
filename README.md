@@ -1,2 +1,2 @@
-# Excel-Project
-excel data analysis projects here
+# Visualization of Sales Trends using EXCEL
+      I meticulously crafted an annual sales report for Vrinda Store using Microsoft Excel. Leveraging advanced features like PivotTables, complex formulas, and dynamic charts. I analyzed sales data, tracked order status, and visualized sales trends. The report provides valuable insights into gender-wise customer distribution and sales channel performance.
